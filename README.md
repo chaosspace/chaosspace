@@ -1,18 +1,6 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 230.9 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -28,5 +16,5 @@ TypeScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/chaosspace/chaosspace/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2024 11:25:10 UTC
+ Last Updated on 04/01/2024 18:36:24 UTC
 <!--END_SECTION:waka-->
