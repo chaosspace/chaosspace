@@ -17,3 +17,5 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROJECTS: "False"
           SHOW_OS: "False"
+          SHOW_SHORT_INFO: "False"
+          DEBUG_LOGGING: "False"
