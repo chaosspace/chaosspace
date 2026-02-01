@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -52,5 +50,5 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/chaosspace/chaosspace/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:55:33 UTC
+ Last Updated on 01/02/2026 19:00:06 UTC
 <!--END_SECTION:waka-->
